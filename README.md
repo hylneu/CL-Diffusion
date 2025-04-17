@@ -13,4 +13,3 @@ pip install torchvision
 
 ## datasets
 Download the DreamBooth Dataset and extract them to data/\
-Download Pretrained Model Stable Diffusion 2-1
