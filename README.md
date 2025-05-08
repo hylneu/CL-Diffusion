@@ -13,4 +13,4 @@ pip install torchvision
 ```bash train_cl.sh```
 
 ## datasets
-Download the **DreamBooth Dataset** [[dataset]](https://github.com/google/dreambooth.git)and extract them to data/
+Download the **DreamBooth Dataset** [[dataset]](https://github.com/google/dreambooth.git) and extract them to data/
