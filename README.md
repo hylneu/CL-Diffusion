@@ -1,5 +1,4 @@
-# CL-Diffusion
- Subject-driven Text-to-Image Generation
+# CL-Diffusion---Subject-driven Text-to-Image Generation
 
 ## Requirements
 
@@ -12,5 +11,5 @@ pip install torchvision
 
 ```bash train_cl.sh```
 
-## datasets
+## Dataset
 Download the **DreamBooth Dataset** [[dataset]](https://github.com/google/dreambooth.git) and extract them to data/
