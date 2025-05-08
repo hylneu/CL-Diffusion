@@ -1,15 +1,15 @@
 # CL-Diffusion
 under construction...
-## requirements
+## Requirements
 
 ```
 pip install diffusers(0.23.1)
 pip install open_clip_torch
 pip install torchvision
 ```
-## finetune
+## Finetune
 
 ```bash train_cl.sh```
 
 ## datasets
-Download the DreamBooth Dataset and extract them to data/
+Download the **DreamBooth Dataset** [[dataset]]([https://github.com/google/dreambooth.git])and extract them to data/
