@@ -1,6 +1,7 @@
 # CL-Diffusion
 
 ## Subject-driven Text-to-Image Generation
+![Screen](image/Figure.png)
 
 ## Requirements
 
