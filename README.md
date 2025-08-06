@@ -1,8 +1,6 @@
 # CL-Diffusion
 > **Subject-Driven Text-to-Image Generation**  
 > Costume 🎩 · Cartoon 🤖 · Activity 🏃 · Attributes 👟 · Art Renditions 🎨
-## Subject-driven Text-to-Image Generation
-
 
 ---
 
