@@ -1,18 +1,30 @@
 # CL-Diffusion
-
+> **Subject-Driven Text-to-Image Generation**  
+> Costume 🎩 · Cartoon 🤖 · Activity 🏃 · Attributes 👟 · Art Renditions 🎨
 ## Subject-driven Text-to-Image Generation
+
+
+---
+
+## ✨ Showcase
+
 ![Screen](image/Figure.png)
 
-## Requirements
+---
 
-```
-pip install diffusers(0.23.1)
-pip install open_clip_torch
-pip install torchvision
-```
-## Finetune
+## 🛠️ Requirements
 
-```bash train_cl.sh```
+- 💾 **diffusers** `>=0.23.1`
+- 🧠 **open_clip_torch**
+- 🖼️ **torchvision**
+- ⚡ **Hardware**: at least **1 × 16 GB** NVIDIA GPU
 
-## Dataset
-Download the **DreamBooth Dataset** [[dataset]](https://github.com/google/dreambooth.git) and extract them to data/
+## 🏋️ Finetune
+
+<pre> bash train_cl.sh </pre>
+
+📚 Dataset
+Download the DreamBooth Dataset from the official repo and unzip into dataset/
+
+Grab the pretrained Stable Diffusion 2-1 checkpoint and place it in pretrained/
+
